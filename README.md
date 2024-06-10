@@ -1,1 +1,1 @@
-# DiplomaSite
+# DiplomaSite.github.io
